@@ -1,0 +1,16 @@
+twilio:
+  account_sid: AC0dbdb6286332232971e5e3459eb8ae97
+  auth_token: 110f589341480d960b1d249f945eee37
+  trial_number: +12029290945
+
+spring:
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+  datasource:
+    url: "jdbc:postgresql://localhost:5432/smsreminder"
+    username: robby
+    password: house314
+logging.level.com.project.smstodo.sms: DEBUG
+
+
+
