@@ -6,5 +6,7 @@ Users create a To-Do List and receive SMS messages through the Twilio API as rem
 
 ## What I learned
 * Creation and usage of a REST API with CRUD operations
-* Usage of Spring Boot
+* How to use Spring Boot
+* How to use Maven to import dependencies
+
 
