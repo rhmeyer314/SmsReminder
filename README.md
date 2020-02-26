@@ -1,8 +1,7 @@
 # SmsReminder
 
 ## Description
-Web app built with Spring Boot and the Twilio API. 
-Users create a To-Do List and receive SMS messages through the Twilio API as reminders for what the user needs to do.
+Web app built with Spring Boot and the Twilio API. Users create a task list and receive reminders via SMS messaging through Twilio containing the items from their task list.
 
 ## What I learned
 * Creation and usage of a REST API with CRUD operations
